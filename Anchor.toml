@@ -1,0 +1,17 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+SPLToken = "5wYTcRp2jwR8fg6M6ovhX62MwhxVFPDFUby5yd38Fwf"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+client = "yarn run ts-node client/*.ts"
