@@ -15,7 +15,7 @@ Welcome to the SPL Token Program built on Solana using the Anchor framework. Thi
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/spl-token-program.git
+   git clone https://github.com/aditiyax/Solana-SPL-Token.git
    cd spl-token-program
 
 2.Install dependencies:
