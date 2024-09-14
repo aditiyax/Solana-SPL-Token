@@ -1,6 +1,6 @@
-# 🪙 SPL Token Program on Solana
+#  SPL Token Program on Solana
 
-Welcome to the SPL Token Program built on Solana using the Anchor framework. This is a smart contract for handling SPL tokens—think minting, transferring, burning, etc. Let's get you set up quickly!
+A SPL Token Program built on Solana using the Anchor framework. This is a smart contract for handling SPL tokens—think minting, transferring, burning, etc. 
 
 ## 🚀 Quick Start
 
